@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "انجليزي-2fg6s",
+    "name": "انجليزي",
+    "description": "انجليزي 40 مستوي كلمات بطريقة تفاعليية",
+    "category": "انجليزي",
+    "level": "",
+    "duration": "",
+    "tags": [
+      "انجليزي"
+    ],
+    "featured": false,
+    "image": "courses/انجليزي-2fg6s/cover.png",
+    "parts": [
+      {
+        "title": "40",
+        "file": "courses/انجليزي-2fg6s/part-01.html"
+      }
+    ]
+  }
+]
